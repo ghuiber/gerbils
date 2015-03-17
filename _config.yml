@@ -1,0 +1,12 @@
+# Site settings
+title: Easy readings 
+email: ghuiber@gmail.com 
+description: > # this means to ignore newlines until "baseurl:"
+  Easy readings for kindergartners who are just getting started.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://webserver" # the base hostname & protocol for your site
+twitter_username: ghuiber 
+github_username: ghuiber 
+
+# Build settings
+markdown: redcarpet
